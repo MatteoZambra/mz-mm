@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Matteo Zambra"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Data Scientist | ML Practictioner | Ph.D."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
