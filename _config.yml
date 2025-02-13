@@ -60,20 +60,20 @@ plugins:
 author:
   name   : "Matteo Zambra"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data Scientist | ML Practictioner | Ph.D."
+  bio    : "Data Scientist – ML Practictioner – Ph.D."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/matteozambra/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/MatteoZambra"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-link"
+      url: "https://www.researchgate.net/profile/Matteo-Zambra"
 
 footer:
   links:
