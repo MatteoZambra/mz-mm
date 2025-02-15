@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Matteo Zambra"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data Scientist – ML Practictioner – Ph.D."
+  bio    : "Data *and* Science"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -72,8 +72,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MatteoZambra"
     - label: "ResearchGate"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Matteo-Zambra"
+    - label: "Contact me"
+      icon: "fas fa-regular fa-address-card"
+      url: "https://google.com"
 
 footer:
   links:

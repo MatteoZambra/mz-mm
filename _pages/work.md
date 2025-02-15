@@ -1,5 +1,5 @@
 ---
-title: "Work Experience"
-permalink: /work/
+title: "Ongoing Activity"
+permalink: /ongoing/
 author_profile: true
 ---
