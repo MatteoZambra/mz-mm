@@ -32,7 +32,9 @@ p + ul {
 }
 </style>
 
-##### Skills acquired and sharpened
+Fill in
+
+<!-- ##### Skills acquired and sharpened
 - Deep learning
   - Algorithm conception, development and testing
   - Training process monitoring
@@ -61,5 +63,5 @@ p + ul {
         <td style="padding-right: 50px;"><b>Server Computing</b></td> <td>🔵🔵🔵⚪⚪</td>
         <td style="padding-left: 50px;"><b>Linux Administration</b></td> <td>🔵🔵🔵🔵⚪</td>
     </tr>
-</table>
+</table> -->
 
