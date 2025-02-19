@@ -1,7 +1,7 @@
 ---
 title: "My complete Curriculum Vitae"
 classes: wide
-layouy: single
+layout: single
 permalink: /cv/
 author_profile: true
 ---
@@ -41,7 +41,7 @@ p + ul {
 <i class="fas fa-map-marker-alt"></i> &nbsp; 38062 Arco, Italy &nbsp; | &nbsp; <i class="fa-regular fa-calendar"></i> &nbsp; Since Apr 2024
 
 ##### Context
-The industrial field is chemical-textile manufacturing. The contribution to the company's activity is to leverage proprietary data and scientific knowledge to create explanatory or predictive models. The added value of my work is invested in quality control automation and harmonization, chemical-physical processes analysis and data management. 
+The industrial field is chemical-textile manufacturing
 
 ##### Responsabilities
 - Development, industrialization and maitenance of Data Analytics models
@@ -57,8 +57,27 @@ More details on the [Ongoing Activity](../ongoing/) section.
 <i class="fas fa-map-marker-alt"></i> &nbsp; 29280 Brest, France &nbsp; | &nbsp; <i class="fa-regular fa-calendar"></i> &nbsp; Nov 2020 - Jan 2024
 
 ##### Domain
-Image, Signal and Vision\
-At [École Doctorale Sciences Pour l'Ingénieur et le Numérique](https://ed-spin.doctorat-bretagne.fr/fr), within the [Lab-STICC](https://labsticc.fr/en).
+Image, Signal and Vision
+
+##### Institution and research unit
+<table>
+  <tr>
+    <td style="padding-right: 50px; font-size: 16px;"><b>Institution</b></td>
+    <td style="padding-right: 50px; font-size: 16px;">Institute Mines-Télécom Atlantique Bretagne-Pays de la Loire</td>
+  </tr>
+  <tr>
+    <td style="padding-right: 50px; font-size: 16px;"><b>Doctoral School</b></td>
+    <td style="padding-right: 50px; font-size: 16px;">
+      <a href="https://ed-spin.doctorat-bretagne.fr/fr" style="text-decoration: underline; color: inherit;">École Doctorale Sciences Pour l'Ingénieur et le Numérique</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-right: 50px; font-size: 16px;"><b>Research Unit</b></td>
+    <td style="padding-right: 50px; font-size: 16px;">
+      <a href="https://labsticc.fr/en" style="text-decoration: underline; color: inherit;">Lab-STICC, UMR CNRS 6285</a>
+    </td>
+  </tr>
+</table>
 
 ##### Responsabilities
 - Development of multimodal deep learning algorithms to process sea surface data
@@ -78,8 +97,19 @@ See the [Publications](#publications) section for details and the [Previous Effo
 <i class="fas fa-map-marker-alt"></i> &nbsp; 35122 Padova, Italy &nbsp; | &nbsp; <i class="fa-regular fa-calendar"></i> &nbsp; Jan 2020 - Sep 2020
 
 ##### Project
-"Computational Modelling of Numerosity Perception".\
-At [Computational Cognitive Neuroscience Lab](http://ccnl.psy.unipd.it/), within the Psychology Department.
+"Computational Modelling of Numerosity Perception".
+<table>
+  <tr>
+    <td style="padding-right: 50px; font-size: 16px;"><b>Institution</b></td>
+    <td style="padding-right: 50px; font-size: 16px;">University of Padova</td>
+  </tr>
+  <tr>
+    <td style="padding-right: 50px; font-size: 16px;"><b>Research Unit</b></td>
+    <td style="padding-right: 50px; font-size: 16px;">
+      <a href="http://ccnl.psy.unipd.it/" style="text-decoration: underline; color: inherit;">Computational Cognitive Neuroscience Lab</a>
+    </td>
+  </tr>
+</table>
 
 ##### Responsabilities
 - Development and testing on a biologically sound deep learning algorithm

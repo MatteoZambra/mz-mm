@@ -1,7 +1,7 @@
 ---
 title: "Previous Efforts"
 classes: wide
-layouy: single
+layout: single
 permalink: /previous/
 author_profile: true
 ---
@@ -145,4 +145,4 @@ The outcomes of our research have been published in the following original paper
 Published in December 2022, the work has been done between in 2020.\
 <i class="fa-solid fa-angles-right"></i> [Original article](https://link.springer.com/article/10.1007/s12559-022-10085-5) in Cognitive Computation.
 
-In this work, we proposed an alternative training algorithm for DBNs, the iterative-DBN (iDBN). Unlike classical DBNs, which are trained in a greedy layer-wise way, our proposed alternative better emulates the bottom-up visual stimulus processing mechanism of human brain visual cortex. A first part of the study compares our algorithm with the classical layer-wise DBN. This part serves the purpose of showing the overall performance alignment and the equivalency of the learned features. Next, we assess the numerosity discrimantion skill, that is how the model can recognize the number of objects in a visual stimulus. We found that the numerosity discrimination pattern aligns well with the one exhibited by human learners. We also prove the resilience of the iDBN with respect to catastrophic forgetting, making it more robust against variations and evolutions of the training domain. The study ends with an analysis on the structural network properties of the two versions of the DBN, to see whether the difference in the learning dynamics affects the network structure in terms of nodes connectivity. 
+In this work, we proposed an alternative training algorithm for DBNs, the iterative-DBN (iDBN). Unlike classical DBNs, which are trained in a greedy layer-wise way, our proposed alternative better emulates the bottom-up visual stimulus processing mechanism of human brain visual cortex. A first part of the study compares our algorithm with the classical layer-wise DBN. This part serves the purpose of showing the overall performance alignment and the equivalency of the learned features. Next, we assess the numerosity discrimantion skill, that is how the model can recognize the number of objects in a visual stimulus. In our proposed model the numerosity discrimination pattern aligns well with the one exhibited by human learners, and is robust against catastrophic forgetting scenarios.

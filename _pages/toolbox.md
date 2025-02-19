@@ -1,7 +1,7 @@
 ---
 title: "Professional Toolbox and Attitudinal Assets"
 classes: wide
-layouy: single
+layout: single
 permalink: /toolbox/
 author_profile: true
 ---
