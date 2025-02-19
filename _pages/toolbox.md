@@ -65,3 +65,46 @@ Fill in with more material
     </tr>
 </table> -->
 
+## The technical area
+##### Data, learning and coding 
+<table>
+    <colgroup>
+        <col style="width: 2%;">
+        <col style="width: 2%;">
+        <col style="width: 0.00001%;">
+        <col style="width: 2%;">
+        <col style="width: 2%;">
+    </colgroup>
+    <tr>
+        <td style="padding-right: 50px;"><b>Development Toolkit</b></td> <td><b>Level</b></td>
+        <td > </td>
+        <td style="padding-left: 50px;"><b>Other Skills</b></td> <td><b>Level</b></td>
+    </tr>
+    <tr>
+        <td style="padding-right: 50px;">Scientific Python</td> <td>🔵🔵🔵🔵⚪</td>
+        <td > </td>
+        <td style="padding-left: 50px;">Machine Learning</td> <td>🔵🔵🔵🔵🔵</td>
+    </tr>
+    <tr>
+        <td style="padding-right: 50px;">StackOverflow</td> <td>🔵🔵🔵🔵🔵</td>
+        <td > </td>
+        <td style="padding-left: 50px;">Data Visualization</td> <td>🔵🔵🔵🔵⚪</td>
+    </tr>
+    <tr>
+        <td style="padding-right: 50px;">ChatGPT AI Copilot</td> <td>🔵🔵🔵🔵⚪</td>
+        <td > </td>
+        <td style="padding-left: 50px;">Cloud Computing</td> <td>🔵🔵🔵⚪⚪</td>
+    </tr>
+    <tr>
+        <td style="padding-right: 50px;">Server Computing</td> <td>🔵🔵🔵⚪⚪</td>
+        <td > </td>
+        <td style="padding-left: 50px;">Linux Administration</td> <td>🔵🔵🔵🔵⚪</td>
+    </tr>
+</table>
+
+##### Science
+
+## The transversal area
+##### Training courses
+
+##### Attitudinal self-portrain
