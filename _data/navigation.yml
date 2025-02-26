@@ -1,8 +1,8 @@
 main:
   - title: "My CV"
     url: /cv/
-  - title: "Skills Set"
-    url: /toolbox/
+  # - title: "Skills Set"
+  #   url: /toolbox/
   - title: "Ongoing Activity"
     url: /ongoing/
   - title: "Previous Efforts"
