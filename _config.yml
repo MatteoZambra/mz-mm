@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   CV website. For completeness
 # twitter_username: username
 github_username: MatteoZambra
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 # search: true
 
 # Build settings
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Matteo Zambra"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/photo_2.jpg"
   bio    : "Data *and* Science"
   links:
     - label: "LinkedIn"

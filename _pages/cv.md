@@ -7,32 +7,32 @@ author_profile: true
 ---
 
 <style>
-h2 {
-    font-family: "Garamond", serif;
-    font-style: normal;
-    font-size: 38px;
-    font-weight: bold;
-    color: #95bff3;
-}
-h3 {
-    font-size: 30px;
-    color: #5c6eb0;
-}
-h5 {
-    color: #5c6eb0;
-}
-body {
-    font-size: 18px;
-}
-p:has(+ ul) {   
-  margin-bottom: 0;
-}
-p + ul {
-  margin-top: 0;
-}
+    h2 {
+        font-family: "Garamond", serif;
+        font-style: normal;
+        font-size: 38px;
+        font-weight: bold;
+        color:rgb(102, 113, 126);
+    }
+    h3 {
+        font-size: 30px;
+        color: #494e63;
+    }
+    h5 {
+        color: #494e63;
+    }
+    body {
+        font-size: 18px;
+    }
+    p:has(+ ul) {   
+      margin-bottom: 0;
+    }
+    p + ul {
+      margin-top: 0;
+    }
 </style>
 
-<span style="font-size:16px;">*Pdf file available on request*</span>
+<span style="font-size:16px;">*Pdf file available [on request](mailto:matteo.zambra1@gmail.com)*</span>
 
 ## Work Experience
 
@@ -48,7 +48,7 @@ The industrial field is chemical-textile manufacturing
 - Creation of user-oriented operational tools
 - Research and selection of the best task-centered solution
 
-More details on the [Ongoing Activity](../ongoing/) section.
+More details on the [Ongoing Activity](../ongoing/) section
 
 **Keywords**: Production process efficiency – Data-driven industrial quality control – Machine Learning Modelling and Applications – Chemical-physical processes analysis
 
@@ -87,7 +87,7 @@ Image, Signal and Vision
 - Two original journal papers
 - One conference proceeding
 
-See the [Publications](#publications) section for details and the [Previous Efforts](../previous/#doctorate-at-imt-atlantique) section for an overview of the scientific contributions.
+See the [Publications](#publications) section for details and the [Previous Efforts](../previous/#doctorate-at-imt-atlantique) section for an overview of the scientific contributions
 
 **Keywords**: Oceanic Big Data Analytics – Hybrid Data-driven and Physics-based Modelling – Geophysical Inverse Problems – Multimodal Data Processing and Information Fusion
 
@@ -97,7 +97,7 @@ See the [Publications](#publications) section for details and the [Previous Effo
 <i class="fas fa-map-marker-alt"></i> &nbsp; 35122 Padova, Italy &nbsp; | &nbsp; <i class="fa-regular fa-calendar"></i> &nbsp; Jan 2020 - Sep 2020
 
 ##### Project
-"Computational Modelling of Numerosity Perception".
+Computational Modelling of Numerosity Perception
 <table>
   <tr>
     <td style="padding-right: 50px; font-size: 16px;"><b>Institution</b></td>
@@ -119,7 +119,7 @@ See the [Publications](#publications) section for details and the [Previous Effo
 ##### Achivement
 - One original journal paper
 
-More details in the [Previous Efforts](../previous/#research-fellowship-at-ccnl-unipd) section.
+More details in the [Previous Efforts](../previous/#research-fellowship-at-ccnl-unipd) section
 
 **Keywords**: Numerical Simulation for Neurosciences Modelling – Numerosity Perception – Probabilistic Model-based Deep Learning
 
