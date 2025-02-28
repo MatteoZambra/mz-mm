@@ -80,8 +80,10 @@ Image, Signal and Vision
 </table>
 
 ##### Responsabilities
-- Development of multimodal deep learning algorithms to process sea surface data
-- Results dissemination and valorization
+- Development of multimodal deep learning algorithms to process sea-surface data
+- Documentation, dissemination, and valorization of the results of my research
+- Curation and submission of scientific articles
+- Tutoring and support in teaching activities
 
 ##### Achivements
 - Two original journal papers
@@ -112,7 +114,7 @@ Computational Modelling of Numerosity Perception
 </table>
 
 ##### Responsabilities
-- Development and testing on a biologically sound deep learning algorithm
+- Development and testing of a biologically sound deep learning algorithm
 - Comparison of the learned sense of numerosity in both our model and human learners
 - Results documentation and dissemination
 
@@ -144,12 +146,12 @@ More details in the [Previous Efforts](../previous/#research-fellowship-at-ccnl-
 
 
 ## Publications
-- Zambra M., Farrugia N., Cazau D., Gensse A., Fablet R., "Multimodal learning–based reconstruction of high-resolution spatial wind speed fields". *Environmental Data Science*. 2025;4:e2. DOI: [https://doi.org/10.1017/eds.2024.34](https://doi.org/10.1017/eds.2024.34)
-- Zambra, M., "Multi-modal AI methods in the context of heterogeneous oceanic observations and multisensor maritime surveillance", Ph.D. Thesis Dissertation. Supervised by Fablet, R., Farrugia, N., Cazau, D. Available on HAL open science, [https://theses.hal.science/tel-04497858](https://theses.hal.science/tel-04497858)
-- Zambra, M., Cazau, D., Farrugia, N., Gensse, A., Pensieri, S., Bozzano, R., Fablet, R., "Learning-Based Temporal Estimation of In-Situ Wind Speed From Underwater Passive Acoustics". *IEEE Journal of Oceanic Engineering*, vol. 48, no. 4, pp. 1215-1225, Oct. 2023. DOI: [https://doi.org/10.1109/JOE.2023.3288970](https://doi.org/10.1109/JOE.2023.3288970)
-- Zambra, M., Cazau, D., Farrugia, N., Gensse, A., Pensieri, S., Bozzano, R., Fablet, R., "Trainable dynamical estimation of above-surface wind speed using underwater passive acoustics", OCEANS 2023–Limerick, Limerick, Ireland, 2023, pp. 1-6, DOI: [https://doi.org/10.1109/OCEANSLimerick52467.2023.10244715](https://doi.org/10.1109/OCEANSLimerick52467.2023.10244715)
-- Zambra, M., Testolin, A. and Zorzi, M., "A Developmental Approach for Training Deep Belief Networks". *Cognitive Computation* 15, 103–120, 2023. DOI: [https://doi.org/10.1007/s12559-022-10085-5](https://doi.org/10.1007/s12559-022-10085-5)
-- Zambra, M., Maritan, A., Testolin, A., "Emergence of Network Motifs in Deep Neural Networks". *Entropy*. 2020. 22, 204. DOI: [https://doi.org/10.3390/e22020204](https://doi.org/10.3390/e22020204)
+- Zambra M., Farrugia N., Cazau D., Gensse A., Fablet R., "Multimodal learning–based reconstruction of high-resolution spatial wind speed fields". *Environmental Data Science*. **2025**;4:e2. DOI: [https://doi.org/10.1017/eds.2024.34](https://doi.org/10.1017/eds.2024.34)
+- Zambra, M., "Multi-modal AI methods in the context of heterogeneous oceanic observations and multisensor maritime surveillance", Ph.D. Thesis Dissertation. **2024**. Supervised by Fablet, R., Farrugia, N., Cazau, D. Available on HAL open science, [https://theses.hal.science/tel-04497858](https://theses.hal.science/tel-04497858)
+- Zambra, M., Cazau, D., Farrugia, N., Gensse, A., Pensieri, S., Bozzano, R., Fablet, R., "Learning-Based Temporal Estimation of In-Situ Wind Speed From Underwater Passive Acoustics". *IEEE Journal of Oceanic Engineering*, vol. 48, no. 4, pp. 1215-1225, Oct. **2023**. DOI: [https://doi.org/10.1109/JOE.2023.3288970](https://doi.org/10.1109/JOE.2023.3288970)
+- Zambra, M., Cazau, D., Farrugia, N., Gensse, A., Pensieri, S., Bozzano, R., Fablet, R., "Trainable dynamical estimation of above-surface wind speed using underwater passive acoustics", OCEANS 2023–Limerick, Limerick, Ireland, **2023**, pp. 1-6, DOI: [https://doi.org/10.1109/OCEANSLimerick52467.2023.10244715](https://doi.org/10.1109/OCEANSLimerick52467.2023.10244715)
+- Zambra, M., Testolin, A. and Zorzi, M., "A Developmental Approach for Training Deep Belief Networks". *Cognitive Computation* 15, 103–120, **2023**. DOI: [https://doi.org/10.1007/s12559-022-10085-5](https://doi.org/10.1007/s12559-022-10085-5)
+- Zambra, M., Maritan, A., Testolin, A., "Emergence of Network Motifs in Deep Neural Networks". *Entropy*. **2020**. 22, 204. DOI: [https://doi.org/10.3390/e22020204](https://doi.org/10.3390/e22020204)
 
 
 ## Certifications and Licenses
